@@ -1,0 +1,11 @@
+/Users/clarkngo/dev/dotnet-projects/console/bin/Debug/netcoreapp2.2/console.deps.json
+/Users/clarkngo/dev/dotnet-projects/console/bin/Debug/netcoreapp2.2/console.runtimeconfig.json
+/Users/clarkngo/dev/dotnet-projects/console/bin/Debug/netcoreapp2.2/console.runtimeconfig.dev.json
+/Users/clarkngo/dev/dotnet-projects/console/bin/Debug/netcoreapp2.2/console.dll
+/Users/clarkngo/dev/dotnet-projects/console/bin/Debug/netcoreapp2.2/console.pdb
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.dll
+/Users/clarkngo/dev/dotnet-projects/console/obj/Debug/netcoreapp2.2/console.pdb

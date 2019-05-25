@@ -1,0 +1,14 @@
+/Users/clarkngo/dev/dotnet-projects/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/clarkngo/dev/dotnet-projects/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/clarkngo/dev/dotnet-projects/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/clarkngo/dev/dotnet-projects/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/clarkngo/dev/dotnet-projects/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/clarkngo/dev/dotnet-projects/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb

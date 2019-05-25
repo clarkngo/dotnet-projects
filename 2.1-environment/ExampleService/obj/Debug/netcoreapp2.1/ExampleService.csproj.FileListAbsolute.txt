@@ -1,0 +1,14 @@
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/Debug/netcoreapp2.1/ExampleService.deps.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/Debug/netcoreapp2.1/ExampleService.runtimeconfig.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/Debug/netcoreapp2.1/ExampleService.runtimeconfig.dev.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/Debug/netcoreapp2.1/ExampleService.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/Debug/netcoreapp2.1/ExampleService.pdb
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.RazorAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.RazorAssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.RazorTargetAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/Debug/netcoreapp2.1/ExampleService.pdb

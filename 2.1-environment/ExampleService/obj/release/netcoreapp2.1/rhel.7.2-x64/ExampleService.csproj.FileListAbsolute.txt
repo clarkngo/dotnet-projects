@@ -1,0 +1,14 @@
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.deps.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.runtimeconfig.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.runtimeconfig.dev.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/bin/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.pdb
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.RazorAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.RazorAssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.RazorTargetAssemblyInfo.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/ExampleService/obj/release/netcoreapp2.1/rhel.7.2-x64/ExampleService.pdb
